@@ -1,0 +1,60 @@
+其實從遊戲出來開始就很想分享這些MOD了 但是不知道在哪區分享比較好 如今M社板塊開了終於能發了~
+逛了一圈沒看到有人發 撞車的話勿噴
+我用壇上的1.03版本親測可用 說沒用的 自己想一下是不是自己的問題再來罵
+我一進去就是3P了
+
+
+
+
+這次MOD的安裝方式有玩過戀活的應該都不陌生
+就是用了BepInEx
+這個方式的話MOD不會被遊戲版本升級而覆蓋掉 也更容易安裝跟移除~
+話不多說 就來介紹這個MOD福袋裡面有什麼吧~ 稍後再說明安裝方式!
+1) 解碼 IOMozaicFree
+相信大家最喜聞樂見的就是解碼 
+不覆蓋遊戲文件 所以就算遊戲升級了也一直無碼~ 
+麻麻再也不用擔心我找不到最新版本的解碼了
+
+2) 高清素材 IOTextureReplacer
+能替換遊戲裡的素材變成高清素材~ 讓解碼更強大
+有圖有真相!
+
+
+
+
+
+
+
+
+
+
+3) 高清鏡子 BetterMirror [慎用]
+雖然能讓鏡子畫質更高 更清楚 但是親測使用後會讓遊戲不流暢 (在畫質優先的設定下)
+不知道是不是我電腦的問題 對自己設備有信心的可以試用一下~ 不流暢的話直接刪除.dll即可
+4) 全開存檔 Save
+方便像我一樣的懶人~ 直接進debug mode %%% 看劇情!!
+
+5) 視窗最大化 EnableResize
+M社新作沒法把視窗最大化 又不想全屏玩 所以對於我來說是神器!!
+
+安裝:
+覆蓋以上資料夾至遊戲目錄
+然後直接點擊io.exe或者自創捷徑運行遊戲
+想移除某MOD的話直接移除該.dll即可
+
+下載鏈接戳這裡：
+
+本帖隐藏的内容
+链接: https://pan.baidu.com/s/1Fi1ocaR58IW9_cgtZG3S9g 提取码: 4qy3
+
+
+PS：一不小心設置了回復可見，不知道怎麼改回來了，你們就湊合著用吧，吼吼。
+
+
+
+
+
+
+还有不会的可以去https://www.zodgame.us/plugin.php?id=dsu_paulsign:sign
+账号qwe853531778@gmail.com
+密码dp8bcB7w9yXW44V

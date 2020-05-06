@@ -1,0 +1,17 @@
+1.退出自己的账号
+2.打开appstore
+3.登陆其他区的账号
+账：shaynelegend2@outlook.com
+
+密：03gongzhonghao:SCDxC
+4.弹出窗口，点击ok，跳转到美区
+5.点击账号，点击已购项目，找到Shadowrocket，点击云朵一样的下载标志
+6.打开软件，右上角+号，类型，选择Subscribe，url填
+https://www.cordcloud.cc/link/qlaq8AzEscpcsM3c?mu=0
+这个网址
+备注随便打
+7.点击完成，等待更新完成
+8.点击设置，服务器订阅，打开时更新
+9.重新打开软件，就能看到很多节点，点击延迟测试，选一个延迟小的节点，把最上面的未连接打开，点击允许。
+
+记得切回自己的账号
